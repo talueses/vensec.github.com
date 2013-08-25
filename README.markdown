@@ -10,7 +10,18 @@ Get started!
 Run the site with:
 
     rake
+### Adicional- VenSec
 
+Para el site de Vensec, debes:
+
+	gem install bundler
+	bundle init
+	echo "gem 'rails'" >> Gemfile
+	bundle install
+
+Y luego, el:
+
+	rake
 ## License
 
 MIT. See `MIT-LICENSE`.
