@@ -10,7 +10,7 @@ Get started!
 Run the site with:
 
     rake
-### Adicional- VenSec
+### Adicional - VenSec
 
 Para el site de Vensec, debes:
 
@@ -19,7 +19,7 @@ Para el site de Vensec, debes:
 	echo "gem 'rails'" >> Gemfile
 	bundle install
 
-Y luego, el:
+Y luego, el comando:
 
 	rake
 ## License
