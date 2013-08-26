@@ -1,16 +1,26 @@
 ---
 layout: default
-title: OpenHack - Valencia, Spain
+title: OpenHack - Venezuela
 ---
 
-## Valencia, Spain
+## Venezuela
 
-![Photo of your meetup or city!](/valencia/hacknight-nov.jpg)
+![Photo!](/venezuela/Vista_PlazaVenezuela.jpg)
 
-### Info
+### Información
 
-HackNights are for people willing to hack on anything, at any skill level. You can come to practice a new programming language or use some new library/framework, work on your open-source or personal projects. You might just come to pair with someone else or to share some thoughts. Whatever you find interesting.
+Próximamente VenSec, un grupo de seguridad informática, en Venezuela.
 
-Beers, snacks, pizza and foosball will be here for you.
+### Nuestros contactos.
 
-Meetings are held at [Peertransfer Valencia](http://goo.gl/maps/XkGHD) every last thursday of the month at 7pm.
+
+[Lista de correo](https://groups.google.com/forum/?hl=es-419#!forum/vensec)
+
+### Próximos meetups
+
+* ¿Un posible meet-up? o, ¿Reunión IRC?
+
+
+### Alguno de nuestros usuarios
+
+* Ejemplo: [@root](about.me)
